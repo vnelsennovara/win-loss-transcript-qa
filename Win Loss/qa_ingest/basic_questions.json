@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the top pricing objections in loss interviews?",
+    "mode": "summary",
+    "outcome": "Loss",
+    "source_type": "summary",
+    "top_k": 30
+  },
+  {
+    "question": "Give quote evidence about onboarding or implementation issues.",
+    "mode": "quotes",
+    "source_type": "transcript",
+    "top_k": 40
+  },
+  {
+    "question": "What product strengths are mentioned in win interviews?",
+    "mode": "summary",
+    "outcome": "Win",
+    "top_k": 30
+  },
+  {
+    "question": "Show quotes about content quality concerns.",
+    "mode": "quotes",
+    "source_type": "transcript",
+    "top_k": 35
+  }
+]
